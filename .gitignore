@@ -1,0 +1,14 @@
+# Heavy raw + intermediate data (≈19 GB raw, ≈400 MB parquet)
+data/raw/
+data/raw_one_day/
+data/processed/
+
+# Python runtime artefacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+
+# Local env file (secrets — Dataverse API token, etc.)
+.env
