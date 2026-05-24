@@ -1,6 +1,4 @@
 """
-src/models/lstm_model.py
-------------------------
 LSTM (Long Short-Term Memory) model for one-step-ahead traffic forecasting.
 
 Architecture:
