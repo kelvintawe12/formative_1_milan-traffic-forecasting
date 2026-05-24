@@ -1,6 +1,4 @@
 """
-src/models/sarima_model.py
---------------------------
 SARIMA (Seasonal ARIMA) model for one-step-ahead traffic forecasting.
 
 SARIMA(p,d,q)(P,D,Q,s) where:
