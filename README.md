@@ -61,7 +61,7 @@ Every step is idempotent — re-running picks up where it left off. See
 
 #### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kelvintawe12/formative_1_milan-traffic-forecasting.git
 cd milan-traffic-forecasting
 ```
 
