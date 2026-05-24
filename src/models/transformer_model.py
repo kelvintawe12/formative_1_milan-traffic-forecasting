@@ -1,6 +1,4 @@
 """
-src/models/transformer_model.py
---------------------------------
 Transformer-based model for one-step-ahead traffic forecasting.
 
 Architecture:
