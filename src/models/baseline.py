@@ -1,6 +1,4 @@
 """
-src/models/baseline.py
-----------------------
 Two zero-learning baselines used to anchor the comparison in Task 3.
 
 Why these matter: a trained model that does not beat persistence or seasonal
